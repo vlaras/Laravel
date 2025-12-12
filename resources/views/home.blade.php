@@ -5,4 +5,3 @@
 
     <p>Hello from the home page.</p>
 </x-layout>
-//home
